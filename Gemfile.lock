@@ -12,6 +12,8 @@ GEM
       hashie
       octokit
       sinatra
+    prpr-lgtm (0.1.0)
+      prpr
     prpr-mention_comment (0.1.1)
       prpr
     prpr-mention_reviewers (0.1.1)
@@ -37,6 +39,7 @@ PLATFORMS
 
 DEPENDENCIES
   prpr
+  prpr-lgtm
   prpr-mention_comment
   prpr-mention_reviewers
   prpr-slack
@@ -45,4 +48,4 @@ RUBY VERSION
    ruby 2.4.1p111
 
 BUNDLED WITH
-   1.14.6
+   1.16.6
