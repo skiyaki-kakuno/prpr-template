@@ -5,4 +5,5 @@ gem 'prpr'
 gem 'prpr-slack'
 gem 'prpr-mention_comment'
 gem 'prpr-mention_reviewers'
-gem 'prpr-lgtm'
+
+#gem 'prpr-lgtm'
